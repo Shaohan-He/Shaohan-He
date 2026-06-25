@@ -38,11 +38,11 @@
 
 ---
 
-## 5. Business & Game Ops Scenarios
+## 5. Business System & Application Operations
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [`game-k8s-ops-practice`](#game-k8s-ops-practice) | 游戏业务系统容器化部署与运维实践，覆盖网关、登录、匹配、房间服务、MySQL、Redis、Kafka、监控告警、日志排查和版本回滚。 | Docker, Kubernetes, FastAPI, MySQL, Redis, Kafka, Prometheus |
+| [`game-k8s-ops-practice`](https://github.com/Shaohan-He/game-k8s-ops-practice) | 业务系统容器化部署与 Kubernetes 发布运维实践，以游戏登录、匹配、房间链路为业务场景，覆盖 Docker Compose、K8s 部署、监控告警、日志排查、版本发布和回滚。 | Docker, Kubernetes, FastAPI, MySQL, Redis, Kafka, Prometheus, Grafana |
 | [`game-server-ops-toolkit`](#game-server-ops-toolkit) | 计划中的游戏区服运维工具箱，覆盖开服、停服维护、配置更新、备份、合服前检查和操作记录。 | Bash, Linux, MySQL, Nginx |
 | [`game-server-orchestrator`](https://github.com/Shaohan-He/game-server-orchestrator) | 游戏服生命周期管理实践，关注玩家数伸缩、优雅排水、暖池和节点健康感知。 | Go, Kubernetes Operator, CRD |
 
