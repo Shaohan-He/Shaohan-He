@@ -1,7 +1,7 @@
 # Hi, I'm Shaohan He 👋
 
 - 我是一名 DevOps / 云原生运维方向从业者，关注 Linux、容器化、Kubernetes 运维和自动化工具建设。
-- I’m a DevOps and cloud-native operations specialist., focusing on Linux, containerization, Kubernetes operations, and automation tooling.
+- I’m a DevOps & cloud-native engineer, focusing on Linux, containerization, Kubernetes operations, and automation tooling.
 
 ## Focus
 
