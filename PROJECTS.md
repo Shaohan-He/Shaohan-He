@@ -6,7 +6,6 @@
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [`tyro_linux`](https://github.com/Shaohan-He/tyro_linux) | Linux 服务器初始化、系统加固、防火墙配置、基础监控和审计脚本库。 | Bash, Linux, Firewall, SSH, Cron |
 | [`node-guardian`](https://github.com/Shaohan-He/node-guardian) | 面向 Kubernetes 节点的预检、诊断、安全审计和配置备份工具。 | Bash, Kubernetes, ShellCheck, BATS |
 
 ---
