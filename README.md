@@ -15,14 +15,14 @@
 
 ## 🧭 Projects / 项目作品集
 
-完整项目分类、说明与技术栈：
 Full project categories, descriptions, and technology stacks:
+完整项目分类、说明与技术栈：
 
-**[查看完整作品集 / View Full Project Portfolio](PROJECTS.md)**
+**[View Full Project Portfolio / 查看完整作品集](https://github.com/Shaohan-He/Shaohan-He/blob/main/PROJECTS.md)**
 
 ## 🌱 Open Source Contributions / 开源贡献
 
-完整开源贡献记录与 PR 链接：
 Full open source contribution records and PR links:
+完整开源贡献记录与 PR 链接：
 
-**[查看完整开源贡献 / View Full Open Source Contributions](CONTRIBUTIONS.md)**
+**[View Full Open Source Contributions / 查看完整开源贡献](https://github.com/Shaohan-He/Shaohan-He/blob/main/CONTRIBUTIONS.md)**
