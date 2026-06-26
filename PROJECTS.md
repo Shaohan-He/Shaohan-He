@@ -63,19 +63,9 @@
 计划中的业务服务发布流水线项目。
 Planned release pipeline project for business services.
 
-### game-k8s-ops-practice
-
-游戏业务系统容器化部署与运维实践。
-Containerized deployment and operations practice for game services.
-
 ### game-server-ops-toolkit
 
 计划中的游戏区服运维工具箱。
 Planned operations toolkit for game server management.
-
-### game-server-orchestrator
-
-游戏服生命周期管理实践。
-Game server lifecycle management practice.
 
 [返回个人主页 / Back to Profile](README.md)
