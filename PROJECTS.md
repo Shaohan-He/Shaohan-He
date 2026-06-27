@@ -34,7 +34,7 @@
 | Project | Description | Tech Stack |
 | --- | --- | --- |
 | [`fleet-gitops`](https://github.com/Shaohan-He/fleet-gitops) | 使用 Git 管理多环境 Kubernetes 配置，支持 dev、staging、production 环境差异管理。 | GitOps, Argo CD, Kustomize |
-| [`game-release-pipeline`](#game-release-pipeline) | 计划中的业务服务发布流水线项目，覆盖镜像构建、测试环境发布、灰度发布、健康检查和回滚流程。 | GitHub Actions, Docker, Kubernetes, Shell |
+| [`service-release-pipeline-practice`](https://github.com/Shaohan-He/service-release-pipeline-practice) | 业务服务 CI/CD 发布流水线实践，覆盖测试、镜像构建、Trivy 扫描、staging 自动部署、production 审批、canary、smoke test、回滚和 release record。 | GitHub Actions, Docker, Kubernetes, Kustomize, Shell, Trivy |
 
 ---
 
@@ -57,11 +57,6 @@
 ---
 
 ## Planned Projects / 计划项目
-
-### game-release-pipeline
-
-计划中的业务服务发布流水线项目。
-Planned release pipeline project for business services.
 
 ### game-server-ops-toolkit
 
