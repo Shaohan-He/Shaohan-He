@@ -11,27 +11,34 @@
 
 ---
 
-## 2. Kubernetes & GitOps Operations / Kubernetes 与 GitOps 运维
+## 2. Node Operations & Self-healing / 节点运维与自愈辅助
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [`fleet-gitops`](https://github.com/Shaohan-He/fleet-gitops) | 基于 Argo CD、Argo Rollouts 和 Kustomize 的 Kubernetes GitOps 交付配置仓库，支持 dev、staging、production 环境差异管理。 | Argo CD, Argo Rollouts, Kustomize, Kubernetes |
+| [`node-guardian`](https://github.com/Shaohan-He/node-guardian) | 面向 Kubernetes 节点的预检、诊断、安全审计和配置备份工具。 | Bash, Linux, Kubernetes, ShellCheck, BATS |
+| [`node-health-watcher`](https://github.com/Shaohan-He/node-health-watcher) | 基于 SSH 的 Kubernetes 节点巡检和告警工具，支持磁盘、内存、conntrack、kubelet 和内核日志检查。 | Python, SSH, Kubernetes, DingTalk, Feishu |
 | [`k8s-healing-agent`](https://github.com/Shaohan-He/k8s-healing-agent) | 实验性的 Kubernetes 告警诊断与辅助修复服务，接收 Alertmanager Webhook 并收集故障上下文。 | Python, FastAPI, Kubernetes, Alertmanager |
-| [`game-server-orchestrator`](https://github.com/Shaohan-He/game-server-orchestrator) | 游戏服生命周期管理实践，关注玩家数伸缩、优雅排水、暖池和节点健康感知。 | Go, Kubernetes Operator, CRD |
 
 ---
 
-## 3. Observability & Troubleshooting / 可观测性与故障排查
+## 3. Observability & GitOps / 可观测性与 GitOps
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
 | [`fleet-observability`](https://github.com/Shaohan-He/fleet-observability) | Kubernetes 可观测性配置仓库，覆盖 Prometheus、Loki、Grafana、Alertmanager、SLO 告警和日志查询。 | Prometheus, Loki, Grafana, Alertmanager |
-| [`node-health-watcher`](https://github.com/Shaohan-He/node-health-watcher) | 基于 SSH 的 Kubernetes 节点巡检和告警工具，支持磁盘、内存、conntrack、kubelet 和内核日志检查。 | Python, SSH, Kubernetes, DingTalk, Feishu |
-| [`node-guardian`](https://github.com/Shaohan-He/node-guardian) | 面向 Kubernetes 节点的预检、诊断、安全审计和配置备份工具。 | Bash, Linux, Kubernetes, ShellCheck, BATS |
+| [`fleet-gitops`](https://github.com/Shaohan-He/fleet-gitops) | 基于 Argo CD、Argo Rollouts 和 Kustomize 的 Kubernetes GitOps 交付配置仓库，支持 dev、staging、production 环境差异管理。 | Argo CD, Argo Rollouts, Kustomize, Kubernetes |
 
 ---
 
-## 4. Automation & AI-assisted Tools / 自动化与 AI 辅助工具
+## 4. Kubernetes Application Operations / Kubernetes 应用运维
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [`game-server-orchestrator`](https://github.com/Shaohan-He/game-server-orchestrator) | 游戏服生命周期管理实践，关注玩家数伸缩、优雅排水、暖池和节点健康感知。 | Go, Kubernetes Operator, CRD |
+
+---
+
+## 5. Automation & AI-assisted Tools / 自动化与 AI 辅助工具
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
